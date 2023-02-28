@@ -1,0 +1,38 @@
+.home {
+    margin: 0px calc(8vw - 50px) 0px calc(8vw - 50px);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.secondaryHeader {
+    font-size: 6vmin;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+
+span {
+    font-weight:normal;
+}
+
+ul {
+    padding-left: 16px;
+}
+
+h4 {
+    margin: 0px;
+    padding: 0px;
+}
+
+.skillsContainer {
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    margin-bottom: 200px;
+    gap: 40px;
+}
+
+.skillsContainer img {
+    max-width: 100px;
+}

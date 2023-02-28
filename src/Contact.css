@@ -1,0 +1,41 @@
+.contact {
+    margin: 0px calc(8vw - 50px) 0px calc(8vw - 50px);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mediasContainer {
+    display: flex;
+    flex-direction: row;
+    margin-top: 24vh;
+    gap: 4vw;
+}
+
+.image {
+    width: 200px;
+    transition: 0.5s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./images/logos/email.png');
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+}
+
+.image p {
+    opacity: 0;
+    transition: 0.5s;
+    color: black;
+    background:none;
+}
+
+.image:hover {
+    opacity: 0.4;
+}
+
+.image p:hover {
+    opacity: 1;
+}

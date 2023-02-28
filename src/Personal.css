@@ -1,0 +1,31 @@
+.Personal {
+    margin: 0px calc(8vw - 50px) 0px calc(8vw - 50px);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.intro {
+    display: flex;
+    margin-top: 80px;
+    flex-direction: column;
+    width: 700px;
+    height:fit-content;
+    border-radius: 25px;
+    border: 2px solid #323232;
+    background:white;
+    margin-bottom: 200px;
+}
+
+.intro p {
+    font-size: 25px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.headerPhoto {
+    display: block;
+    border-radius: 25px 25px 0px 0px;
+    max-width: 700px;
+}

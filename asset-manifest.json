@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/profileWebsite/static/css/main.4b27f4c5.css",
+    "main.js": "/profileWebsite/static/js/main.431622f4.js",
+    "static/js/787.79bb468a.chunk.js": "/profileWebsite/static/js/787.79bb468a.chunk.js",
+    "static/media/ukievill.jpeg": "/profileWebsite/static/media/ukievill.be74b14ebc95e15a5187.jpeg",
+    "static/media/nicky.png": "/profileWebsite/static/media/nicky.bb313c7b6deade357446.png",
+    "static/media/profilepic.jpeg": "/profileWebsite/static/media/profilepic.3b5117e94f5218f7e28b.jpeg",
+    "static/media/react.png": "/profileWebsite/static/media/react.81ed438b18e24116794d.png",
+    "static/media/egencia.png": "/profileWebsite/static/media/egencia.6450d8737cd4d0bb3dc4.png",
+    "static/media/java.png": "/profileWebsite/static/media/java.66d5a4fef00821dfe115.png",
+    "static/media/html.png": "/profileWebsite/static/media/html.a92a549a591f4acb527a.png",
+    "static/media/instagram.png": "/profileWebsite/static/media/instagram.75e0546a6b5abe4c0506.png",
+    "static/media/css.png": "/profileWebsite/static/media/css.4a6549b8c2b4cda8bb88.png",
+    "static/media/typescript.png": "/profileWebsite/static/media/typescript.af108db04a54d784da9b.png",
+    "static/media/javascript.webp": "/profileWebsite/static/media/javascript.bb41b35e77975f0c88b0.webp",
+    "index.html": "/profileWebsite/index.html",
+    "main.4b27f4c5.css.map": "/profileWebsite/static/css/main.4b27f4c5.css.map",
+    "main.431622f4.js.map": "/profileWebsite/static/js/main.431622f4.js.map",
+    "787.79bb468a.chunk.js.map": "/profileWebsite/static/js/787.79bb468a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b27f4c5.css",
+    "static/js/main.431622f4.js"
+  ]
+}

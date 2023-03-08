@@ -20,7 +20,7 @@ function HomePage() {
             <div className='line'></div>
             <Card className='cardContainerRight' pic={pfp} picStyle='primary' alt="pic of Nicky">
                 <h2>Nicholas Sosnivka</h2>
-                <p>I am an fourth year undergraduate student at the University of Miami studying computer 
+                <p>I am a fourth year undergraduate student at the University of Miami studying computer 
                     science and minoring in mathematics. I am an aspiring software engineer and will be
                     returning to Egencia this July as a Software Development Engineer I. I have been involved 
                     in technology my whole life, and I was pretty much the "tech nerd" in my family growing up. 

@@ -1,6 +1,6 @@
 import './Personal.css';
-import './App.css'
-import ukieville from './images/ukievill.jpeg'
+import '../App/App.css'
+import ukieville from '../../images/ukievill.jpeg'
 
 function Personal() {
     return (

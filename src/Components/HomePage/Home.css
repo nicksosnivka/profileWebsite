@@ -36,3 +36,19 @@ h4 {
 .skillsContainer img {
     max-width: 100px;
 }
+
+@media (max-width: 1000px) {
+    .home {
+        margin: 0px 2vw 0px 2vw;
+    }
+
+    .home h2 {
+        font-size: 4vw;
+    }
+
+    .home p {
+        font-size: 3vw;
+    }
+
+
+}

@@ -16,6 +16,7 @@
     border: 2px solid #323232;
     background:white;
     margin-bottom: 200px;
+    box-shadow: 6px 6px 25px black;
 }
 
 .intro p {
@@ -28,4 +29,22 @@
     display: block;
     border-radius: 25px 25px 0px 0px;
     max-width: 700px;
+}
+
+@media (max-width: 1000px) {
+
+    .Personal {
+        margin: 0px 2vw 0px 2vw;
+    }
+    .intro {
+        width: 80vw;
+    }
+
+    .headerPhoto {
+        max-width: 80vw;
+    }
+
+    .intro p {
+        font-size: 5vw;
+    }
 }

@@ -1,6 +1,12 @@
 .Body-container {
   margin-left: 100px;
-  
+  transition: 0.5s;
+}
+
+@media (max-width: 1000px) {
+  .Body-container {
+    margin-left: 0;
+  }
 }
 
 .App {

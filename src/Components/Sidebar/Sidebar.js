@@ -1,13 +1,13 @@
 import './Sidebar.css';
 import React from 'react';
-import homeIcon from './images/home.png';
-import userIcon from './images/user.png';
-import contactIcon from './images/paper-plane.png';
-import homeIconFill from './images/homeFill.png';
-import userIconFill from './images/userFill.png';
-import contactIconFill from './images/paper-planeFill.png';
-import nickyPic from './images/nicky.png';
-import { appContext } from './App';
+import homeIcon from '../../images/home.png';
+import userIcon from '../../images/user.png';
+import contactIcon from '../../images/paper-plane.png';
+import homeIconFill from '../../images/homeFill.png';
+import userIconFill from '../../images/userFill.png';
+import contactIconFill from '../../images/paper-planeFill.png';
+import nickyPic from '../../images/nicky.png';
+import { appContext } from '../App/App';
 
 function SidebarNav() {
 
@@ -21,13 +21,13 @@ function SidebarNav() {
             <img src={nickyPic} alt='pic of Nicky' className='NickyPic'></img>
             <nav>
                 <button id="Home Button" onClick={handleHome}>
-                    <img src={pageState[0] ? homeIconFill : homeIcon} alt='home icon'></img>
+                    <img className='sideBarImage' src={pageState[0] ? homeIconFill : homeIcon} alt='home icon'></img>
                 </button>
                 <button id="User Button" onClick={handleUser}>
-                    <img src={pageState[1] ? userIconFill : userIcon} alt='user icon'></img>
+                    <img className='sideBarImage' src={pageState[1] ? userIconFill : userIcon} alt='user icon'></img>
                 </button>
                 <button id="Contact Button" onClick={handleContact}>
-                    <img src={pageState[2] ? contactIconFill : contactIcon} alt='contact icon'></img>
+                    <img className='sideBarImage' src={pageState[2] ? contactIconFill : contactIcon} alt='contact icon'></img>
                 </button>
             </nav>
         </div>

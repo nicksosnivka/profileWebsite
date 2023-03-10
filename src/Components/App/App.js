@@ -1,9 +1,9 @@
 import './App.css';
 import React from 'react';
-import HomePage from './Home';
-import Personal from './Personal';
-import Contact from './Contact';
-import SidebarNav from './Sidebar';
+import HomePage from '../HomePage/Home';
+import Personal from '../PersonalPage/Personal';
+import Contact from '../ContactPage/Contact';
+import SidebarNav from '../Sidebar/Sidebar';
 
 export const appContext = React.createContext("Default Value")
 

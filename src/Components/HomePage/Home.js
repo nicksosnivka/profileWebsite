@@ -1,17 +1,17 @@
 import './Home.css'
-import './App.css'
-import Card from './Card'
-import './Card.css'
-import pfp from './images/home/profilepic.jpeg'
-import egencia from './images/logos/egencia.png'
-import miami from './images/logos/miami.jpeg'
-import mbhs from './images/logos/miamiherbert.jpeg'
-import css from './images/logos/css.png';
-import html from './images/logos/html.png'
-import java from './images/logos/java.png'
-import javascript from './images/logos/javascript.webp'
-import reactPic from './images/logos/react.png'
-import typescript from './images/logos/typescript.png'
+import '../App/App.css'
+import Card from '../Card/Card'
+import '../Card/Card.css'
+import pfp from '../../images/home/profilepic.jpeg'
+import egencia from '../../images/logos/egencia.png'
+import miami from '../../images/logos/miami.jpeg'
+import mbhs from '../../images/logos/miamiherbert.jpeg'
+import css from '../../images/logos/css.png';
+import html from '../../images/logos/html.png'
+import java from '../../images/logos/java.png'
+import javascript from '../../images/logos/javascript.webp'
+import reactPic from '../../images/logos/react.png'
+import typescript from '../../images/logos/typescript.png'
 
 function HomePage() {
     return (

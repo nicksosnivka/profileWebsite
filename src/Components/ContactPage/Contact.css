@@ -13,13 +13,26 @@
     gap: 4vw;
 }
 
+.firstContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 4vw;
+}
+
+.secondContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 4vw;
+}
+
 .image {
     width: 200px;
+    height: 200px;
     transition: 0.5s;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('./images/logos/email.png');
+    background-image: url('../../images/logos/email.png');
     background-position: center;
     background-size: cover;
     border-radius: 20px;
@@ -38,4 +51,11 @@
 
 .image p:hover {
     opacity: 1;
+}
+
+@media (max-width: 1000px) {
+    .mediasContainer {
+        flex-direction: column;
+        margin-top: 6vh;
+    }
 }

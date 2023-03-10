@@ -1,8 +1,8 @@
 import './Logo.css';
 import React from 'react';
-import github from './images/logos/github.png';
-import linkedIn from './images/logos/linkedin.png';
-import instagram from './images/logos/instagram.png';
+import github from '../../images/logos/github.png';
+import linkedIn from '../../images/logos/linkedin.png';
+import instagram from '../../images/logos/instagram.png';
 
 function Logo(props) {
 
@@ -12,7 +12,8 @@ function Logo(props) {
             <img src={props.name === 'github' ? github
             : props.name === 'linkedin' ? linkedIn
             : props.name === 'instagram' ? instagram
-            : null} alt='github logo' className='logo'></img>
+            : null} alt='github logo' className='logo'>
+            </img>
         </a>
     );
 }

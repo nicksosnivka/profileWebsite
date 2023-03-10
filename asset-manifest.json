@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/profileWebsite/static/css/main.4b27f4c5.css",
-    "main.js": "/profileWebsite/static/js/main.431622f4.js",
+    "main.css": "/profileWebsite/static/css/main.50f528aa.css",
+    "main.js": "/profileWebsite/static/js/main.35ff92a6.js",
     "static/js/787.79bb468a.chunk.js": "/profileWebsite/static/js/787.79bb468a.chunk.js",
     "static/media/ukievill.jpeg": "/profileWebsite/static/media/ukievill.be74b14ebc95e15a5187.jpeg",
     "static/media/nicky.png": "/profileWebsite/static/media/nicky.bb313c7b6deade357446.png",
@@ -15,12 +15,12 @@
     "static/media/typescript.png": "/profileWebsite/static/media/typescript.af108db04a54d784da9b.png",
     "static/media/javascript.webp": "/profileWebsite/static/media/javascript.bb41b35e77975f0c88b0.webp",
     "index.html": "/profileWebsite/index.html",
-    "main.4b27f4c5.css.map": "/profileWebsite/static/css/main.4b27f4c5.css.map",
-    "main.431622f4.js.map": "/profileWebsite/static/js/main.431622f4.js.map",
+    "main.50f528aa.css.map": "/profileWebsite/static/css/main.50f528aa.css.map",
+    "main.35ff92a6.js.map": "/profileWebsite/static/js/main.35ff92a6.js.map",
     "787.79bb468a.chunk.js.map": "/profileWebsite/static/js/787.79bb468a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b27f4c5.css",
-    "static/js/main.431622f4.js"
+    "static/css/main.50f528aa.css",
+    "static/js/main.35ff92a6.js"
   ]
 }
